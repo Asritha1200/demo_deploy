@@ -7,6 +7,6 @@ app=Flask(__name__)
 def index():
 	return 'HELLO WORLD'
 
-app.run()
+
 
 
